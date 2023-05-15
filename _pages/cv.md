@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Marine Engineering, Harbin Engineering University, 2012
+* M.S. in Power Engineering, Harbin Engineering University, 2014
+* Ph.D in Mechanical Engineering, Shanghai Jiao Tong University, 2019
+* Ph.D in Mechanical Engineering, KU Leuven, 2019
 
 Work experience
 ======
